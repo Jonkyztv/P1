@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", UNIVERSAL TV
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", PARAMOUNT
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", LUNA TV
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", FOX MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", FOX COMEDY (USA) (HD)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", FM HOT PELICULAS (CHILE) (HD)
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", AMERICAN HORRORS
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg", group-title="CINE Y ENTRETENIMIENTO", PLUTO TV MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="CINE Y ENTRETENIMIENTO", ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", FUEGOTV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CINE Y ENTRETENIMIENTO",24/7 HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CINE Y ENTRETENIMIENTO",24/7 HOLLYWOOD MOVIES 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CINE Y ENTRETENIMIENTO",24/7 HOLLYWOOD MOVIES 8
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA", RED BULL TV (FHD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA", RED BULL TV (1)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA", RED BULL TV (2)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA", RED BULL TV (3)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA", CLASSIC ARTS SHOWCASE
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA", IMPACT WRESTLING
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA", LUXURY WORLD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",NOTICIAS 3/24 (ES)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8?DVR
+
+#EXTINF:-1 group-title="NOTICIAS",SKY NEWS (UK)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",ARISE NEWS (UK)
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",AL JAZEERA (UK)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CANALE7 NEWS (IT)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",TRT WORLD (HD) (INGLES) (TURQUIA)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA", AMERICA TV (HD)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",TV PUBLICA (HD)
+https://chunks01.tvpublica.com.ar/video/BJQRNMF6b_1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://demedios.info/wp-content/uploads/2018/06/logo-net-tv.jpg" group-title="ARGENTINA", NET TV (HD)
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",NETTV (HD)
+https://unlimited5-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",NETTV
+https://unlimited5-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",26TV (HD)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1947705687_b2628000_sleng.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",13 MAX
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",CANAL 10
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",ARGENTINISIMA
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1442504911_b1912000_sleng.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",POWER (HD)
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",TLX TELEMAX (HD)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",TELPIN TV (HD)
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w987456678.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",TELPIN TV (HD) 1
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w231437854.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",MULTIVISION - SALTA
+http://panel.dattalive.com:1935/8250/8250/chunklist_w282536558.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",CANAL 9 - SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",RTN - NEUQUEN (HD)
+http://media.neuquen.gov.ar/rtn/television/chunklist_w955572744.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",24/7 - NEUQUEN
+https://59c5c86e10038.streamlock.net/6605140/6605140/chunklist_w1294500935.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",10 - RIO NEGRO
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w173801405.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w128586794_b1412000_sleng.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",SEÑAL PROVINCIAL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",26TV (HD) 2
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 group-title="CHILE",UES TV (HD)
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",TVR (HD)
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",CDO (HD)
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",CONTIVISION (HD)
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",EL PINGUINO TV (HD)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",VTV - SAN FELIPE (HD)
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",UESTV - SANTIAGO (HD)
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="USA", NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 group-title="USA",NBC MIAMI (USA)
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+
+#EXTINF:-1 group-title="USA",CBS (USA)
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:-1 group-title="USA",CBS (USA) 1
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:-1 group-title="USA",HBO 2 (USA)
+http://161.0.157.51/PLTV/88888888/224/3221227026/01.m3u8
+
+#EXTINF:-1 group-title="USA",? (USA)
+http://161.0.157.51/PLTV/88888888/224/3221227004/01.m3u8
+
+#EXTINF:-1 group-title="USA",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 group-title="USA",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 group-title="USA",CARTOON NETWORK (LA)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="USA",24-7 RETRO TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",ATLANTA CHANNEL (HD)
+http://media4.tripsmarter.com:1935/LiveTV/ATLHD/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",ACVB (HD)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",BEACH TV (HD)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",KEY WEST FLORIDA TV (HD)
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",NEW ORLEANS TV (HD)
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",THE WEATHER CHANNEL
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 group-title="USA",30A TV
+http://30a-tv.com/my999.m3u8
+
+#EXTINF:-1 group-title="USA",QVC (FHD)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/playlist_b4192000.m3u8
+
+#EXTINF:-1 group-title="USA",QVC PLUS (FHD)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/01313d9e2dcf4451acdaed5b4f18fa0d/playlist_b4192000.m3u8
+
+#EXTINF:-1 group-title="USA",QVC BEAUTY IQ (FHD)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/86a36224ca3c4442b7116b398b7c73cf/playlist_b4192000.m3u8
+
+#EXTINF:-1 group-title="UK",LONDON LIVE (HD)
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1,Latino | Cinema 05 PPV-
+http://f7.tvxweb.net:8082/24322/mpegts?token=MxPReBvRE1
+
+#EXTINF:-1,Latino | Cinema 03 PPV-
+http://f7.tvxweb.net:8082/24324/mpegts?token=MxPReBvRE1
+#EXTINF:-1,Latino | Starz HD 1080P-
+http://f7.tvxweb.net:8082/35940/mpegts?token=MxPReBvRE1
